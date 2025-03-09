@@ -46,7 +46,8 @@ st.markdown("""
     /* Styling for metric cards */
     .metric-card {
         background: linear-gradient(135deg, #ff6b6b 0%, #ffd93d 100%);
-        padding: 1.5rem;
+        padding: 1.5rem;  
+        margin-bottom: 15px;
         border-radius: 15px;
         box-shadow: 0 4px 10px rgba(255, 107, 107, 0.3);
         text-align: center;
