@@ -1,13 +1,14 @@
 import sqlite3
 import streamlit as st
 import pandas as pd
-import requests
+import os
 
 # Custom CSS for styling and config
 st.set_page_config(page_title="Personal Library Manager", page_icon="📚", layout="wide")
 
 def load_css():
-    with open("styles.css", "r") as file:
+    css_path = os.path.join(os.path.dirname(__file__), "styles.css")
+    with open(css_path, "r") as file:
         css = file.read()
         st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
 
