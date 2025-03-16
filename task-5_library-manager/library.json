@@ -1,0 +1,42 @@
+[
+    {
+        "title": "python",
+        "author": "mujtaba",
+        "year": 8080,
+        "genre": "gopi",
+        "read": false,
+        "date_added": "2025-03-16 12:56:19"
+    },
+    {
+        "title": "Mastry Python",
+        "author": "zia ullah khan",
+        "year": 5050,
+        "genre": "jko",
+        "read": true,
+        "date_added": "2025-03-16 12:57:10"
+    },
+    {
+        "title": "Hacking is Art",
+        "author": "Kelvin",
+        "year": 2020,
+        "genre": "kel",
+        "read": false,
+        "date_added": "2025-03-16 13:04:32"
+    },
+    {
+        "title": "book edited",
+        "author": "author1",
+        "year": 9090,
+        "genre": "koip",
+        "read": false,
+        "date_added": "2025-03-16 13:24:47"
+    },
+    {
+        "title": "book2",
+        "author": "author2",
+        "year": 3030,
+        "genre": "koip",
+        "read": true,
+        "date_added": "2025-03-16 13:25:20"
+    }
+]
